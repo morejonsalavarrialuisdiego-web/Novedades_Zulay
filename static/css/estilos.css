@@ -95,6 +95,17 @@ nav a:hover{
 background:rgba(255,255,255,.18);
 }
 
+.menu-btn{
+display:none;
+background:var(--morado);
+color:white;
+border:none;
+font-size:30px;
+padding:12px;
+width:100%;
+cursor:pointer;
+}
+
 /* HERO */
 
 .hero{
@@ -378,9 +389,18 @@ grid-template-columns:1fr;
 
 @media(max-width:768px){
 
+.menu-btn{
+display:block;
+}
+
 nav{
+display:none;
 flex-direction:column;
 gap:8px;
+}
+
+nav.activo{
+display:flex;
 }
 
 nav a{
