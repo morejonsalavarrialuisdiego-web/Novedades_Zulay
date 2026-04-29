@@ -17,7 +17,9 @@
 <p>Artículos y novedades para toda la familia</p>
 </header>
 
-<nav>
+<button class="menu-btn" onclick="toggleMenu()">☰</button>
+
+<nav id="menu">
 <a href="index.html">Inicio</a>
 <a href="productos.html">Productos</a>
 <a href="carrito.html">Carrito</a>
@@ -37,6 +39,12 @@ Ver Catálogo
 <footer>
 <p>© 2026 Novedades Zulay</p>
 </footer>
+
+<script>
+function toggleMenu(){
+document.getElementById("menu").classList.toggle("activo");
+}
+</script>
 
 </body>
 </html>
