@@ -1,0 +1,154 @@
+[
+    {
+        "id": 1,
+        "nombre": "Parlante Cafini",
+        "precio": 35.0,
+        "imagen": "static/img/productos/parlante.jpg",
+        "descripcion": "Parlante Bluetooth potente",
+        "stock": 8
+    },
+    {
+        "id": 2,
+        "nombre": "Perchero Hexagonal",
+        "precio": 15.0,
+        "imagen": "static/img/productos/perchero.jpg",
+        "descripcion": "Perchero giratorio con ruedas",
+        "stock": 5
+    },
+    {
+        "id": 3,
+        "nombre": "Funda Lavado",
+        "precio": 2.0,
+        "imagen": "static/img/productos/funda.jpg",
+        "descripcion": "Malla para ropa interior",
+        "stock": 20
+    },
+    {
+        "id": 4,
+        "nombre": "Ventilador USB",
+        "precio": 6.0,
+        "imagen": "static/img/productos/ventiladorusb.jpg",
+        "descripcion": "Ventilador recargable USB",
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "nombre": "Cargador Moto",
+        "precio": 30.0,
+        "imagen": "static/img/productos/cargador.jpg",
+        "descripcion": "Cargador para moto y bici",
+        "stock": 7
+    },
+    {
+        "id": 6,
+        "nombre": "Platera Super Gigante",
+        "precio": 18.0,
+        "imagen": "static/img/productos/platera.jpg",
+        "descripcion": "Platera grande cocina",
+        "stock": 4
+    },
+    {
+        "id": 7,
+        "nombre": "Adaptador USB 4 en 1",
+        "precio": 5.0,
+        "imagen": "static/img/productos/adaptador.jpg",
+        "descripcion": "USB múltiple adaptador",
+        "stock": 12
+    },
+    {
+        "id": 8,
+        "nombre": "Caja Herramientas",
+        "precio": 9.0,
+        "imagen": "static/img/productos/herramienta.jpg",
+        "descripcion": "46 piezas reparación",
+        "stock": 6
+    },
+    {
+        "id": 9,
+        "nombre": "Batería 12V",
+        "precio": 128.0,
+        "imagen": "static/img/productos/bateria.jpg",
+        "descripcion": "Batería 12 voltios",
+        "stock": 3
+    },
+    {
+        "id": 10,
+        "nombre": "Mouse Recargable",
+        "precio": 7.0,
+        "imagen": "static/img/productos/mouse.jpg",
+        "descripcion": "Mouse inalámbrico",
+        "stock": 9
+    },
+    {
+        "id": 11,
+        "nombre": "Lámpara LED Mesa",
+        "precio": 7.0,
+        "imagen": "static/img/productos/lampara.jpg",
+        "descripcion": "Lámpara moderna escritorio",
+        "stock": 8
+    },
+    {
+        "id": 12,
+        "nombre": "Cocineta Gas",
+        "precio": 45.0,
+        "imagen": "static/img/productos/cocineta.jpg",
+        "descripcion": "4 hornillas a gas",
+        "stock": 2
+    },
+    {
+        "id": 13,
+        "nombre": "Soporte TV",
+        "precio": 11.0,
+        "imagen": "static/img/productos/soporte.jpg",
+        "descripcion": "Soporte hasta 85 pulgadas",
+        "stock": 5
+    },
+    {
+        "id": 14,
+        "nombre": "Cobertor Carro",
+        "precio": 16.0,
+        "imagen": "static/img/productos/cobertor.jpg",
+        "descripcion": "Cubierta para auto XL",
+        "stock": 4
+    },
+    {
+        "id": 15,
+        "nombre": "Hamaca Tropical",
+        "precio": 16.0,
+        "imagen": "static/img/productos/hamaca.jpg",
+        "descripcion": "Hamaca resistente colorida",
+        "stock": 6
+    },
+    {
+        "id": 16,
+        "nombre": "Ventilador Negro",
+        "precio": 17.0,
+        "imagen": "static/img/productos/ventilador.jpg",
+        "descripcion": "Ventilador pedestal",
+        "stock": 7
+    },
+    {
+        "id": 17,
+        "nombre": "Radio FM USB",
+        "precio": 10.0,
+        "imagen": "static/img/productos/radio.jpg",
+        "descripcion": "Radio bluetooth memoria",
+        "stock": 9
+    },
+    {
+        "id": 18,
+        "nombre": "Foco LED 60W",
+        "precio": 6.0,
+        "imagen": "static/img/productos/foco.jpg",
+        "descripcion": "Foco blanco potente",
+        "stock": 15
+    },
+    {
+        "id": 19,
+        "nombre": "Alfombra Hogar",
+        "precio": 3.0,
+        "imagen": "static/img/productos/alfombra.jpg",
+        "descripcion": "Tapete bienvenida",
+        "stock": 20
+    }
+]
