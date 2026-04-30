@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto | Novedades Zulay</title>
+
+    <link rel="icon" href="static/img/logo.ico">
+    <link rel="stylesheet" href="static/css/estilos.css">
+    <style>
+        /* Estilos específicos para una apariencia más elegante */
+        .grid-contacto {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            padding: 20px;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        .card-contacto {
+            background: #fff;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
+        .card-contacto:hover {
+            transform: translateY(-5px);
+        }
+        .card-contacto h3 {
+            margin-bottom: 15px;
+            color: #333;
+        }
+        .horario-info {
+            grid-column: 1 / -1;
+            background: #f9f9f9;
+            border-left: 4px solid #333;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <img src="static/img/logo.png" alt="Logo">
+    <h1>Contáctanos</h1>
+    <p>Estamos listos para atenderte</p>
+</header>
+
+<!-- Botón de menú para móviles -->
+<button class="menu-btn" onclick="toggleMenu()">☰</button>
+
+<nav id="menu">
+    <a href="index.html">Inicio</a>
+    <a href="productos.html">Productos</a>
+    <a href="carrito.html">Carrito</a>
+    <a href="contacto.html">Contacto</a>
+    <a href="acerca.html">Acerca de</a>
+</nav>
+
+<section class="hero">
+    <h2>Comunícate con Nosotros</h2>
+    <p>Haz tu pedido o consulta fácilmente.</p>
+</section>
+
+<!-- Contenedor Elegante de Contacto -->
+<main class="grid-contacto">
+
+    <div class="card-contacto">
+        <h3>📱 WhatsApp</h3>
+        <p>Atención directa y pedidos rápidos.</p>
+        <a class="btn" href="https://wa.me/593986159709" target="_blank">Escribir Ahora</a>
+    </div>
+
+    <div class="card-contacto">
+        <h3>📘 Facebook</h3>
+        <p>Síguenos y entérate de las novedades.</p>
+        <a class="btn" href="https://www.facebook.com/novedades.zulay.2025" target="_blank">Visitar Página</a>
+    </div>
+
+    <div class="card-contacto horario-info">
+        <h3>🕘 Horario de Atención</h3>
+        <p>Lunes a Domingo: 09:00 AM - 10:00 PM</p>
+    </div>
+
+</main>
+
+<footer>
+    <p>© 2026 Novedades Zulay</p>
+</footer>
+
+<script>
+function toggleMenu(){
+    document.getElementById("menu").classList.toggle("activo");
+}
+</script>
+
+</body>
+</html>
