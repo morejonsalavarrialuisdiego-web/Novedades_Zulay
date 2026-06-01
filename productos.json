@@ -1,0 +1,1994 @@
+[
+    {
+        "id": 1,
+        "nombre": "190 amarilla canon",
+        "precio": 4.0,
+        "imagen": "static/img/productos/190_amarilla_canon.jpg",
+        "descripcion": "190 amarilla canon",
+        "stock": 6
+    },
+    {
+        "id": 2,
+        "nombre": "190 negro canon",
+        "precio": 4.0,
+        "imagen": "static/img/productos/190_negro_canon.jpg",
+        "descripcion": "190 negro canon",
+        "stock": 6
+    },
+    {
+        "id": 3,
+        "nombre": "190 cyan canon",
+        "precio": 4.0,
+        "imagen": "static/img/productos/190_cyan_canon.jpg",
+        "descripcion": "190 cyan canon",
+        "stock": 6
+    },
+    {
+        "id": 4,
+        "nombre": "190 magenta canon",
+        "precio": 4.0,
+        "imagen": "static/img/productos/190_magenta_canon.jpg",
+        "descripcion": "190 magenta canon",
+        "stock": 6
+    },
+    {
+        "id": 5,
+        "nombre": "Alcancias",
+        "precio": 0.5,
+        "imagen": "static/img/productos/alcancias.jpg",
+        "descripcion": "Alcancias",
+        "stock": 12
+    },
+    {
+        "id": 6,
+        "nombre": "Alfombra de Yoga celeste",
+        "precio": 6.0,
+        "imagen": "static/img/productos/alfombra_de_yoga_celeste.jpg",
+        "descripcion": "Alfombra de Yoga celeste",
+        "stock": 2
+    },
+    {
+        "id": 7,
+        "nombre": "ALFOMBRA NAVIDEÑA",
+        "precio": 2.5,
+        "imagen": "static/img/productos/alfombra_navideña.jpg",
+        "descripcion": "ALFOMBRA NAVIDEÑA",
+        "stock": 4
+    },
+    {
+        "id": 8,
+        "nombre": "alfombras afelpadas gruesas",
+        "precio": 3.5,
+        "imagen": "static/img/productos/alfombras_afelpadas_gruesas.jpg",
+        "descripcion": "alfombras afelpadas gruesas",
+        "stock": 3
+    },
+    {
+        "id": 9,
+        "nombre": "alfombras de flores , fresa y estrella",
+        "precio": 2.5,
+        "imagen": "static/img/productos/alfombras_de_flores__fresa_y_estrella.jpg",
+        "descripcion": "alfombras de flores , fresa y estrella",
+        "stock": 3
+    },
+    {
+        "id": 10,
+        "nombre": "alfombras bienvenidos",
+        "precio": 2.5,
+        "imagen": "static/img/productos/alfombras_bienvenidos.jpg",
+        "descripcion": "alfombras bienvenidos",
+        "stock": 3
+    },
+    {
+        "id": 11,
+        "nombre": "alfombras stich",
+        "precio": 2.5,
+        "imagen": "static/img/productos/alfombras_stich.jpg",
+        "descripcion": "alfombras stich",
+        "stock": 2
+    },
+    {
+        "id": 12,
+        "nombre": "ANTENAS TV",
+        "precio": 5.0,
+        "imagen": "static/img/productos/antenas_tv.jpg",
+        "descripcion": "ANTENAS TV",
+        "stock": 2
+    },
+    {
+        "id": 13,
+        "nombre": "AUDIFONO SAMSUNG AKG",
+        "precio": 2.0,
+        "imagen": "static/img/productos/audifono_samsung_akg.jpg",
+        "descripcion": "AUDIFONO SAMSUNG AKG",
+        "stock": 2
+    },
+    {
+        "id": 14,
+        "nombre": "babero rosado",
+        "precio": 1.0,
+        "imagen": "static/img/productos/babero_rosado.jpg",
+        "descripcion": "babero rosado",
+        "stock": 1
+    },
+    {
+        "id": 15,
+        "nombre": "Balanzas digitales",
+        "precio": 10.0,
+        "imagen": "static/img/productos/balanzas_digitales.jpg",
+        "descripcion": "Balanzas digitales",
+        "stock": 4
+    },
+    {
+        "id": 16,
+        "nombre": "bandeja 28 cm x 12 cm aluminio",
+        "precio": 3.5,
+        "imagen": "static/img/productos/bandeja_28_cm_x_12_cm_aluminio.jpg",
+        "descripcion": "bandeja 28 cm x 12 cm aluminio",
+        "stock": 3
+    },
+    {
+        "id": 17,
+        "nombre": "bandeja con tapa 24 cm",
+        "precio": 7.5,
+        "imagen": "static/img/productos/bandeja_con_tapa_24_cm.jpg",
+        "descripcion": "bandeja con tapa 24 cm",
+        "stock": 1
+    },
+    {
+        "id": 18,
+        "nombre": "baterias de 12 volteos 12 amperios",
+        "precio": 35.0,
+        "imagen": "static/img/productos/baterias_de_12_volteos_12_amperios.jpg",
+        "descripcion": "baterias de 12 volteos 12 amperios",
+        "stock": 10
+    },
+    {
+        "id": 19,
+        "nombre": "baterias de 12 volteos 25 amperios",
+        "precio": 45.0,
+        "imagen": "static/img/productos/baterias_de_12_volteos_25_amperios.jpg",
+        "descripcion": "baterias de 12 volteos 25 amperios",
+        "stock": 0
+    },
+    {
+        "id": 20,
+        "nombre": "billeteras con caja",
+        "precio": 5.0,
+        "imagen": "static/img/productos/billeteras_con_caja.jpg",
+        "descripcion": "billeteras con caja",
+        "stock": 4
+    },
+    {
+        "id": 21,
+        "nombre": "BLANQUEADORES DE ZAPATO",
+        "precio": 1.5,
+        "imagen": "static/img/productos/blanqueadores_de_zapato.jpg",
+        "descripcion": "BLANQUEADORES DE ZAPATO",
+        "stock": 3
+    },
+    {
+        "id": 22,
+        "nombre": "Bolso convertible negro y dorado $ 4.70",
+        "precio": 0.0,
+        "imagen": "static/img/productos/bolso_convertible_negro_y_dorado__470.jpg",
+        "descripcion": "Bolso convertible negro y dorado $ 4.70",
+        "stock": 0
+    },
+    {
+        "id": 23,
+        "nombre": "Bolso de malla para lavadora",
+        "precio": 1.5,
+        "imagen": "static/img/productos/bolso_de_malla_para_lavadora.jpg",
+        "descripcion": "Bolso de malla para lavadora",
+        "stock": 6
+    },
+    {
+        "id": 24,
+        "nombre": "Boquillas con sensor inteligente",
+        "precio": 7.0,
+        "imagen": "static/img/productos/boquillas_con_sensor_inteligente.jpg",
+        "descripcion": "Boquillas con sensor inteligente",
+        "stock": 2
+    },
+    {
+        "id": 25,
+        "nombre": "Brazalete ajustable - muñequera",
+        "precio": 2.75,
+        "imagen": "static/img/productos/brazalete_ajustable_-_muñequera.jpg",
+        "descripcion": "Brazalete ajustable - muñequera",
+        "stock": 3
+    },
+    {
+        "id": 26,
+        "nombre": "buzo con mangas moderno rojo peruano",
+        "precio": 12.0,
+        "imagen": "static/img/productos/buzo_con_mangas_moderno_rojo_peruano.jpg",
+        "descripcion": "buzo con mangas moderno rojo peruano",
+        "stock": 1
+    },
+    {
+        "id": 27,
+        "nombre": "Cable de router",
+        "precio": 1.0,
+        "imagen": "static/img/productos/cable_de_router.jpg",
+        "descripcion": "Cable de router",
+        "stock": 9
+    },
+    {
+        "id": 28,
+        "nombre": "cable tipo c a Tipo C",
+        "precio": 2.0,
+        "imagen": "static/img/productos/cable_tipo_c_a_tipo_c.jpg",
+        "descripcion": "cable tipo c a Tipo C",
+        "stock": 3
+    },
+    {
+        "id": 29,
+        "nombre": "CABLE USB TIPO C -ldnio",
+        "precio": 1.75,
+        "imagen": "static/img/productos/cable_usb_tipo_c_-ldnio.jpg",
+        "descripcion": "CABLE USB TIPO C -ldnio",
+        "stock": 1
+    },
+    {
+        "id": 30,
+        "nombre": "CABLE USB TIPO V8 caja ploma",
+        "precio": 1.75,
+        "imagen": "static/img/productos/cable_usb_tipo_v8_caja_ploma.jpg",
+        "descripcion": "CABLE USB TIPO V8 caja ploma",
+        "stock": 3
+    },
+    {
+        "id": 31,
+        "nombre": "Cables 4 en 1 , tiene entrada C a iphone y de tipo usb a tipo iphone",
+        "precio": 2.0,
+        "imagen": "static/img/productos/cables_4_en_1__tiene_entrada_c_a_iphone_y_de_tipo_usb_a_tipo_iphone.jpg",
+        "descripcion": "Cables 4 en 1 , tiene entrada C a iphone y de tipo usb a tipo iphone",
+        "stock": 6
+    },
+    {
+        "id": 32,
+        "nombre": "cable tipo C (3):( 3 TIPO V8)",
+        "precio": 1.75,
+        "imagen": "static/img/productos/cable_tipo_c_3_3_tipo_v8.jpg",
+        "descripcion": "cable tipo C (3):( 3 TIPO V8)",
+        "stock": 4
+    },
+    {
+        "id": 33,
+        "nombre": "Cables de instalación de camara",
+        "precio": 3.0,
+        "imagen": "static/img/productos/cables_de_instalación_de_camara.jpg",
+        "descripcion": "Cables de instalación de camara",
+        "stock": 15
+    },
+    {
+        "id": 34,
+        "nombre": "CADENA MASCULINA  plateada",
+        "precio": 8.0,
+        "imagen": "static/img/productos/cadena_masculina_plateada.jpg",
+        "descripcion": "CADENA MASCULINA  plateada",
+        "stock": 1
+    },
+    {
+        "id": 35,
+        "nombre": "caja de aspiradores dilatadores  nasales",
+        "precio": 8.5,
+        "imagen": "static/img/productos/caja_de_aspiradores_dilatadores_nasales.jpg",
+        "descripcion": "caja de aspiradores dilatadores  nasales",
+        "stock": 6
+    },
+    {
+        "id": 36,
+        "nombre": "caja de herramienta",
+        "precio": 9.0,
+        "imagen": "static/img/productos/caja_de_herramienta.jpg",
+        "descripcion": "caja de herramienta",
+        "stock": 3
+    },
+    {
+        "id": 37,
+        "nombre": "Caja de herramieta de dados grande",
+        "precio": 13.0,
+        "imagen": "static/img/productos/caja_de_herramieta_de_dados_grande.jpg",
+        "descripcion": "Caja de herramieta de dados grande",
+        "stock": 1
+    },
+    {
+        "id": 38,
+        "nombre": "Caja de herramienta de 40 piezas caja ploma",
+        "precio": 7.5,
+        "imagen": "static/img/productos/caja_de_herramienta_de_40_piezas_caja_ploma.jpg",
+        "descripcion": "Caja de herramienta de 40 piezas caja ploma",
+        "stock": 1
+    },
+    {
+        "id": 39,
+        "nombre": "cajas plasticas con tapa",
+        "precio": 2.5,
+        "imagen": "static/img/productos/cajas_plasticas_con_tapa.jpg",
+        "descripcion": "cajas plasticas con tapa",
+        "stock": 1
+    },
+    {
+        "id": 40,
+        "nombre": "CAMARÀ ANTIHUMEDAD",
+        "precio": 15.0,
+        "imagen": "static/img/productos/camar_antihumedad.jpg",
+        "descripcion": "CAMARÀ ANTIHUMEDAD",
+        "stock": 2
+    },
+    {
+        "id": 41,
+        "nombre": "camara grabadora de vision nocturna  de carro",
+        "precio": 10.0,
+        "imagen": "static/img/productos/camara_grabadora_de_vision_nocturna_de_carro.jpg",
+        "descripcion": "camara grabadora de vision nocturna  de carro",
+        "stock": 1
+    },
+    {
+        "id": 42,
+        "nombre": "CAMARA GRANDE CON PANEL SOLAR",
+        "precio": 20.0,
+        "imagen": "static/img/productos/camara_grande_con_panel_solar.jpg",
+        "descripcion": "CAMARA GRANDE CON PANEL SOLAR",
+        "stock": 1
+    },
+    {
+        "id": 43,
+        "nombre": "CAMISAS MANGA LARGA M",
+        "precio": 10.0,
+        "imagen": "static/img/productos/camisas_manga_larga_m.jpg",
+        "descripcion": "CAMISAS MANGA LARGA M",
+        "stock": 1
+    },
+    {
+        "id": 44,
+        "nombre": "CAMISETA CON COELLO  XL T 42; COLOR BLANCA",
+        "precio": 8.0,
+        "imagen": "static/img/productos/camiseta_con_coello_xl_t_42_color_blanca.jpg",
+        "descripcion": "CAMISETA CON COELLO  XL T 42; COLOR BLANCA",
+        "stock": 1
+    },
+    {
+        "id": 45,
+        "nombre": "CANASTAS DE NEVERA",
+        "precio": 1.5,
+        "imagen": "static/img/productos/canastas_de_nevera.jpg",
+        "descripcion": "CANASTAS DE NEVERA",
+        "stock": 9
+    },
+    {
+        "id": 46,
+        "nombre": "cantinflora",
+        "precio": 6.0,
+        "imagen": "static/img/productos/cantinflora.jpg",
+        "descripcion": "cantinflora",
+        "stock": 1
+    },
+    {
+        "id": 47,
+        "nombre": "cargador adaptador 200 watt TECNO  (1)ESTE FALTA  + INFINIX 120 watt (2) OK",
+        "precio": 7.0,
+        "imagen": "static/img/productos/cargador_adaptador_200_watt_tecno_1este_falta__infinix_120_watt_2_ok.jpg",
+        "descripcion": "cargador adaptador 200 watt TECNO  (1)ESTE FALTA  + INFINIX 120 watt (2) OK",
+        "stock": 4
+    },
+    {
+        "id": 48,
+        "nombre": "Cargador rapido tecno 120 w (2) OK +Ldnio 125 w  V8 (1) OK  +xioamy 125 (1) OK  +Honor 168w V8 (1) OK  +Infinix 150w (1) NO HAY",
+        "precio": 7.0,
+        "imagen": "static/img/productos/cargador_rapido_tecno_120_w_2_ok_ldnio_125_w_v8_1_ok_xioamy_125_1_ok_honor_168w_v8_1_ok_infinix_150w_1_no_hay.jpg",
+        "descripcion": "Cargador rapido tecno 120 w (2) OK +Ldnio 125 w  V8 (1) OK  +xioamy 125 (1) OK  +Honor 168w V8 (1) OK  +Infinix 150w (1) NO HAY",
+        "stock": 6
+    },
+    {
+        "id": 49,
+        "nombre": "Cargador senci 130 watt 6 entradas",
+        "precio": 8.0,
+        "imagen": "static/img/productos/cargador_senci_130_watt_6_entradas.jpg",
+        "descripcion": "Cargador senci 130 watt 6 entradas",
+        "stock": 3
+    },
+    {
+        "id": 50,
+        "nombre": "CARGADOR DE 66 W CARGA RAPIDA TIPO V8",
+        "precio": 5.0,
+        "imagen": "static/img/productos/cargador_de_66_w_carga_rapida_tipo_v8.jpg",
+        "descripcion": "CARGADOR DE 66 W CARGA RAPIDA TIPO V8",
+        "stock": 3
+    },
+    {
+        "id": 51,
+        "nombre": "cargador Ldnio 200 watt - 1 Tipo V8 + 1 Tipo C",
+        "precio": 7.0,
+        "imagen": "static/img/productos/cargador_ldnio_200_watt_-_1_tipo_v8__1_tipo_c.jpg",
+        "descripcion": "cargador Ldnio 200 watt - 1 Tipo V8 + 1 Tipo C",
+        "stock": 2
+    },
+    {
+        "id": 52,
+        "nombre": "Cargadores de baterias (2 de 48v 12 amp)(2 de 48v 20 amp)",
+        "precio": 35.0,
+        "imagen": "static/img/productos/cargadores_de_baterias_2_de_48v_12_amp2_de_48v_20_amp.jpg",
+        "descripcion": "Cargadores de baterias (2 de 48v 12 amp)(2 de 48v 20 amp)",
+        "stock": 3
+    },
+    {
+        "id": 53,
+        "nombre": "Cargadores de baterias 150 mAh",
+        "precio": 30.0,
+        "imagen": "static/img/productos/cargadores_de_baterias_150_mah.jpg",
+        "descripcion": "Cargadores de baterias 150 mAh",
+        "stock": 6
+    },
+    {
+        "id": 54,
+        "nombre": "CARGADORES IPHONE",
+        "precio": 9.0,
+        "imagen": "static/img/productos/cargadores_iphone.jpg",
+        "descripcion": "CARGADORES IPHONE",
+        "stock": 1
+    },
+    {
+        "id": 55,
+        "nombre": "Cargadores normal V8  ezra",
+        "precio": 2.5,
+        "imagen": "static/img/productos/cargadores_normal_v8_ezra.jpg",
+        "descripcion": "Cargadores normal V8  ezra",
+        "stock": 1
+    },
+    {
+        "id": 56,
+        "nombre": "cargadores ràpido multifunción 66 WATTS",
+        "precio": 6.5,
+        "imagen": "static/img/productos/cargadores_rpido_multifunción_66_watts.jpg",
+        "descripcion": "cargadores ràpido multifunción 66 WATTS",
+        "stock": 6
+    },
+    {
+        "id": 57,
+        "nombre": "carrito organizadores beige caja blanca con plomo",
+        "precio": 12.0,
+        "imagen": "static/img/productos/carrito_organizadores_beige_caja_blanca_con_plomo.jpg",
+        "descripcion": "carrito organizadores beige caja blanca con plomo",
+        "stock": 2
+    },
+    {
+        "id": 58,
+        "nombre": "carrito organizadores negro  caja azul",
+        "precio": 14.0,
+        "imagen": "static/img/productos/carrito_organizadores_negro_caja_azul.jpg",
+        "descripcion": "carrito organizadores negro  caja azul",
+        "stock": 1
+    },
+    {
+        "id": 59,
+        "nombre": "CEPILLO DE BEBE",
+        "precio": 0.75,
+        "imagen": "static/img/productos/cepillo_de_bebe.jpg",
+        "descripcion": "CEPILLO DE BEBE",
+        "stock": 5
+    },
+    {
+        "id": 60,
+        "nombre": "Cepillo para limpiar parrilla",
+        "precio": 1.8,
+        "imagen": "static/img/productos/cepillo_para_limpiar_parrilla.jpg",
+        "descripcion": "Cepillo para limpiar parrilla",
+        "stock": 1
+    },
+    {
+        "id": 61,
+        "nombre": "chanchitos rapido de 65 watt",
+        "precio": 4.5,
+        "imagen": "static/img/productos/chanchitos_rapido_de_65_watt.jpg",
+        "descripcion": "chanchitos rapido de 65 watt",
+        "stock": 2
+    },
+    {
+        "id": 62,
+        "nombre": "cintas doble faz",
+        "precio": 1.8,
+        "imagen": "static/img/productos/cintas_doble_faz.jpg",
+        "descripcion": "cintas doble faz",
+        "stock": 3
+    },
+    {
+        "id": 63,
+        "nombre": "CINTAS RGB DE 5 METROS",
+        "precio": 5.5,
+        "imagen": "static/img/productos/cintas_rgb_de_5_metros.jpg",
+        "descripcion": "CINTAS RGB DE 5 METROS",
+        "stock": 24
+    },
+    {
+        "id": 64,
+        "nombre": "Cinturones hebilla plateada",
+        "precio": 5.0,
+        "imagen": "static/img/productos/cinturones_hebilla_plateada.jpg",
+        "descripcion": "Cinturones hebilla plateada",
+        "stock": 6
+    },
+    {
+        "id": 65,
+        "nombre": "CINTURONES SENCILLO cocido blanco",
+        "precio": 3.0,
+        "imagen": "static/img/productos/cinturones_sencillo_cocido_blanco.jpg",
+        "descripcion": "CINTURONES SENCILLO cocido blanco",
+        "stock": 5
+    },
+    {
+        "id": 66,
+        "nombre": "cocinetas",
+        "precio": 45.0,
+        "imagen": "static/img/productos/cocinetas.jpg",
+        "descripcion": "cocinetas",
+        "stock": 1
+    },
+    {
+        "id": 67,
+        "nombre": "Colgador Hexagonal Giratorio",
+        "precio": 14.5,
+        "imagen": "static/img/productos/colgador_hexagonal_giratorio.jpg",
+        "descripcion": "Colgador Hexagonal Giratorio",
+        "stock": 2
+    },
+    {
+        "id": 68,
+        "nombre": "Colgador Organizador 35 kg(3)  + colgadores pequeños t  110x42x143 cm (2)",
+        "precio": 15.0,
+        "imagen": "static/img/productos/colgador_organizador_35_kg3__colgadores_pequeños_t_110x42x143_cm_2.jpg",
+        "descripcion": "Colgador Organizador 35 kg(3)  + colgadores pequeños t  110x42x143 cm (2)",
+        "stock": 4
+    },
+    {
+        "id": 69,
+        "nombre": "colgador-perchero  de ropa con cubre polvo",
+        "precio": 19.5,
+        "imagen": "static/img/productos/colgador-perchero_de_ropa_con_cubre_polvo.jpg",
+        "descripcion": "colgador-perchero  de ropa con cubre polvo",
+        "stock": 2
+    },
+    {
+        "id": 70,
+        "nombre": "colgador-perchero  de ropa giratorio hexagonal con exhibidor de gorra",
+        "precio": 14.5,
+        "imagen": "static/img/productos/colgador-perchero_de_ropa_giratorio_hexagonal_con_exhibidor_de_gorra.jpg",
+        "descripcion": "colgador-perchero  de ropa giratorio hexagonal con exhibidor de gorra",
+        "stock": 1
+    },
+    {
+        "id": 71,
+        "nombre": "Colchones 2 plazas Resiflex",
+        "precio": 160.0,
+        "imagen": "static/img/productos/colchones_2_plazas_resiflex.jpg",
+        "descripcion": "Colchones 2 plazas Resiflex",
+        "stock": 0
+    },
+    {
+        "id": 72,
+        "nombre": "cucharon de tallarin",
+        "precio": 1.5,
+        "imagen": "static/img/productos/cucharon_de_tallarin.jpg",
+        "descripcion": "cucharon de tallarin",
+        "stock": 1
+    },
+    {
+        "id": 73,
+        "nombre": "Cucharon Pequeño mango de Madera",
+        "precio": 1.8,
+        "imagen": "static/img/productos/cucharon_pequeño_mango_de_madera.jpg",
+        "descripcion": "Cucharon Pequeño mango de Madera",
+        "stock": 3
+    },
+    {
+        "id": 74,
+        "nombre": "Dispensador de agua Normal",
+        "precio": 3.5,
+        "imagen": "static/img/productos/dispensador_de_agua_normal.jpg",
+        "descripcion": "Dispensador de agua Normal",
+        "stock": 6
+    },
+    {
+        "id": 75,
+        "nombre": "DISPENSADORES DE AGUA LAITESI",
+        "precio": 5.5,
+        "imagen": "static/img/productos/dispensadores_de_agua_laitesi.jpg",
+        "descripcion": "DISPENSADORES DE AGUA LAITESI",
+        "stock": 1
+    },
+    {
+        "id": 76,
+        "nombre": "Elevador de 5  a 12 v",
+        "precio": 3.0,
+        "imagen": "static/img/productos/elevador_de_5_a_12_v.jpg",
+        "descripcion": "Elevador de 5  a 12 v",
+        "stock": 10
+    },
+    {
+        "id": 77,
+        "nombre": "Elevador de 5  a 12 v",
+        "precio": 3.0,
+        "imagen": "static/img/productos/elevador_de_5_a_12_v.jpg",
+        "descripcion": "Elevador de 5  a 12 v",
+        "stock": 5
+    },
+    {
+        "id": 78,
+        "nombre": "ESCANER AUTOMOTRIZ",
+        "precio": 38.0,
+        "imagen": "static/img/productos/escaner_automotriz.jpg",
+        "descripcion": "ESCANER AUTOMOTRIZ",
+        "stock": 2
+    },
+    {
+        "id": 79,
+        "nombre": "ESENCIAS DE HUMIFICADOR  OCEANO-VAINILLA-CANELA-FLORES-GENGIBRE-DURAZNO",
+        "precio": 2.0,
+        "imagen": "static/img/productos/esencias_de_humificador_oceano-vainilla-canela-flores-gengibre-durazno.jpg",
+        "descripcion": "ESENCIAS DE HUMIFICADOR  OCEANO-VAINILLA-CANELA-FLORES-GENGIBRE-DURAZNO",
+        "stock": 5
+    },
+    {
+        "id": 80,
+        "nombre": "Estuches de Lentes",
+        "precio": 1.5,
+        "imagen": "static/img/productos/estuches_de_lentes.jpg",
+        "descripcion": "Estuches de Lentes",
+        "stock": 5
+    },
+    {
+        "id": 81,
+        "nombre": "EXTENSION 5 METROS DE CABLE CON BOQUILLA DE FOCOS",
+        "precio": 8.5,
+        "imagen": "static/img/productos/extension_5_metros_de_cable_con_boquilla_de_focos.jpg",
+        "descripcion": "EXTENSION 5 METROS DE CABLE CON BOQUILLA DE FOCOS",
+        "stock": 4
+    },
+    {
+        "id": 82,
+        "nombre": "Faja - Calzon Faja - Color Crema talla G",
+        "precio": 6.0,
+        "imagen": "static/img/productos/faja_-_calzon_faja_-_color_crema_talla_g.jpg",
+        "descripcion": "Faja - Calzon Faja - Color Crema talla G",
+        "stock": 1
+    },
+    {
+        "id": 83,
+        "nombre": "Faja - Cinturilla",
+        "precio": 4.5,
+        "imagen": "static/img/productos/faja_-_cinturilla.jpg",
+        "descripcion": "Faja - Cinturilla",
+        "stock": 2
+    },
+    {
+        "id": 84,
+        "nombre": "Faja - SHORT LEGGINS talla M(2) + L (5) + XL(7)",
+        "precio": 6.0,
+        "imagen": "static/img/productos/faja_-_short_leggins_talla_m2__l_5__xl7.jpg",
+        "descripcion": "Faja - SHORT LEGGINS talla M(2) + L (5) + XL(7)",
+        "stock": 6
+    },
+    {
+        "id": 85,
+        "nombre": "FAJA MODELADORA XL",
+        "precio": 4.5,
+        "imagen": "static/img/productos/faja_modeladora_xl.jpg",
+        "descripcion": "FAJA MODELADORA XL",
+        "stock": 1
+    },
+    {
+        "id": 86,
+        "nombre": "faja S TIPO CHALECO S",
+        "precio": 6.0,
+        "imagen": "static/img/productos/faja_s_tipo_chaleco_s.jpg",
+        "descripcion": "faja S TIPO CHALECO S",
+        "stock": 1
+    },
+    {
+        "id": 87,
+        "nombre": "Floreros con vaso blanco",
+        "precio": 3.5,
+        "imagen": "static/img/productos/floreros_con_vaso_blanco.jpg",
+        "descripcion": "Floreros con vaso blanco",
+        "stock": 3
+    },
+    {
+        "id": 88,
+        "nombre": "flores con luces hada",
+        "precio": 1.75,
+        "imagen": "static/img/productos/flores_con_luces_hada.jpg",
+        "descripcion": "flores con luces hada",
+        "stock": 11
+    },
+    {
+        "id": 89,
+        "nombre": "Foco Cámara smart",
+        "precio": 12.5,
+        "imagen": "static/img/productos/foco_cámara_smart.jpg",
+        "descripcion": "Foco Cámara smart",
+        "stock": 3
+    },
+    {
+        "id": 90,
+        "nombre": "foco led 4 watt para extensión",
+        "precio": 1.0,
+        "imagen": "static/img/productos/foco_led_4_watt_para_extensión.jpg",
+        "descripcion": "foco led 4 watt para extensión",
+        "stock": 12
+    },
+    {
+        "id": 91,
+        "nombre": "Foco Repelente",
+        "precio": 3.5,
+        "imagen": "static/img/productos/foco_repelente.jpg",
+        "descripcion": "Foco Repelente",
+        "stock": 4
+    },
+    {
+        "id": 92,
+        "nombre": "fomix labrados",
+        "precio": 1.0,
+        "imagen": "static/img/productos/fomix_labrados.jpg",
+        "descripcion": "fomix labrados",
+        "stock": 3
+    },
+    {
+        "id": 93,
+        "nombre": "Forros de moto 230 x 130",
+        "precio": 5.0,
+        "imagen": "static/img/productos/forros_de_moto_230_x_130.jpg",
+        "descripcion": "Forros de moto 230 x 130",
+        "stock": 6
+    },
+    {
+        "id": 94,
+        "nombre": "Forros de moto 230 x 130 Talla L CARTON AZUL",
+        "precio": 8.0,
+        "imagen": "static/img/productos/forros_de_moto_230_x_130_talla_l_carton_azul.jpg",
+        "descripcion": "Forros de moto 230 x 130 Talla L CARTON AZUL",
+        "stock": 6
+    },
+    {
+        "id": 95,
+        "nombre": "FORROS DE SILLAS - 3 beige  - 4 lilas + 12 forros negros",
+        "precio": 3.0,
+        "imagen": "static/img/productos/forros_de_sillas_-_3_beige_-_4_lilas__12_forros_negros.jpg",
+        "descripcion": "FORROS DE SILLAS - 3 beige  - 4 lilas + 12 forros negros",
+        "stock": 11
+    },
+    {
+        "id": 96,
+        "nombre": "FUNDAS DE REGAlO DE CORAZONES Y OSITO",
+        "precio": 0.75,
+        "imagen": "static/img/productos/fundas_de_regalo_de_corazones_y_osito.jpg",
+        "descripcion": "FUNDAS DE REGAlO DE CORAZONES Y OSITO",
+        "stock": 1
+    },
+    {
+        "id": 97,
+        "nombre": "FUNDAS DE REGALO GRANDE VARON",
+        "precio": 1.0,
+        "imagen": "static/img/productos/fundas_de_regalo_grande_varon.jpg",
+        "descripcion": "FUNDAS DE REGALO GRANDE VARON",
+        "stock": 8
+    },
+    {
+        "id": 98,
+        "nombre": "FUNDA REGALO NAVIDEÑAS",
+        "precio": 1.0,
+        "imagen": "static/img/productos/funda_regalo_navideñas.jpg",
+        "descripcion": "FUNDA REGALO NAVIDEÑAS",
+        "stock": 2
+    },
+    {
+        "id": 99,
+        "nombre": "FUNDAS DE REGALO MEDIANA VARON",
+        "precio": 0.75,
+        "imagen": "static/img/productos/fundas_de_regalo_mediana_varon.jpg",
+        "descripcion": "FUNDAS DE REGALO MEDIANA VARON",
+        "stock": 2
+    },
+    {
+        "id": 100,
+        "nombre": "FUNDAS DE REGALO rosas",
+        "precio": 0.75,
+        "imagen": "static/img/productos/fundas_de_regalo_rosas.jpg",
+        "descripcion": "FUNDAS DE REGALO rosas",
+        "stock": 8
+    },
+    {
+        "id": 101,
+        "nombre": "FUNDAS DE TOALLA DE MANO X 5",
+        "precio": 1.1,
+        "imagen": "static/img/productos/fundas_de_toalla_de_mano_x_5.jpg",
+        "descripcion": "FUNDAS DE TOALLA DE MANO X 5",
+        "stock": 2
+    },
+    {
+        "id": 102,
+        "nombre": "Fundas Impermeables para celular",
+        "precio": 1.25,
+        "imagen": "static/img/productos/fundas_impermeables_para_celular.jpg",
+        "descripcion": "Fundas Impermeables para celular",
+        "stock": 9
+    },
+    {
+        "id": 103,
+        "nombre": "Ganchos ADHESIVOS  x 3",
+        "precio": 1.0,
+        "imagen": "static/img/productos/ganchos_adhesivos_x_3.jpg",
+        "descripcion": "Ganchos ADHESIVOS  x 3",
+        "stock": 6
+    },
+    {
+        "id": 104,
+        "nombre": "Gas Pimienta",
+        "precio": 4.0,
+        "imagen": "static/img/productos/gas_pimienta.jpg",
+        "descripcion": "Gas Pimienta",
+        "stock": 2
+    },
+    {
+        "id": 105,
+        "nombre": "GORRAS DE NIÑO -AVENGER",
+        "precio": 4.0,
+        "imagen": "static/img/productos/gorras_de_niño_-avenger.jpg",
+        "descripcion": "GORRAS DE NIÑO -AVENGER",
+        "stock": 1
+    },
+    {
+        "id": 106,
+        "nombre": "Grameras",
+        "precio": 5.5,
+        "imagen": "static/img/productos/grameras.jpg",
+        "descripcion": "Grameras",
+        "stock": 3
+    },
+    {
+        "id": 107,
+        "nombre": "Guirnalda de Flores sin luces",
+        "precio": 2.5,
+        "imagen": "static/img/productos/guirnalda_de_flores_sin_luces.jpg",
+        "descripcion": "Guirnalda de Flores sin luces",
+        "stock": 3
+    },
+    {
+        "id": 108,
+        "nombre": "Guirnalda de Flores con luces LED",
+        "precio": 3.5,
+        "imagen": "static/img/productos/guirnalda_de_flores_con_luces_led.jpg",
+        "descripcion": "Guirnalda de Flores con luces LED",
+        "stock": 0
+    },
+    {
+        "id": 109,
+        "nombre": "Hamaca tropical  155 x 250",
+        "precio": 16.0,
+        "imagen": "static/img/productos/hamaca_tropical_155_x_250.jpg",
+        "descripcion": "Hamaca tropical  155 x 250",
+        "stock": 2
+    },
+    {
+        "id": 110,
+        "nombre": "humificador astronauta sentado 3 cm y 1 parad 15 cm",
+        "precio": 7.5,
+        "imagen": "static/img/productos/humificador_astronauta_sentado_3_cm_y_1_parad_15_cm.jpg",
+        "descripcion": "humificador astronauta sentado 3 cm y 1 parad 15 cm",
+        "stock": 2
+    },
+    {
+        "id": 111,
+        "nombre": "humificador portatil 2 verde-1 rosado-1 blanco",
+        "precio": 3.5,
+        "imagen": "static/img/productos/humificador_portatil_2_verde-1_rosado-1_blanco.jpg",
+        "descripcion": "humificador portatil 2 verde-1 rosado-1 blanco",
+        "stock": 3
+    },
+    {
+        "id": 112,
+        "nombre": "HUMIFICADORES  3 JARROS , 3 BOLAS CARTON VERDE , 1 BOLA CAJA NARANJA",
+        "precio": 5.0,
+        "imagen": "static/img/productos/humificadores_3_jarros__3_bolas_carton_verde__1_bola_caja_naranja.jpg",
+        "descripcion": "HUMIFICADORES  3 JARROS , 3 BOLAS CARTON VERDE , 1 BOLA CAJA NARANJA",
+        "stock": 7
+    },
+    {
+        "id": 113,
+        "nombre": "jarra con 4 vasos",
+        "precio": 5.5,
+        "imagen": "static/img/productos/jarra_con_4_vasos.jpg",
+        "descripcion": "jarra con 4 vasos",
+        "stock": 1
+    },
+    {
+        "id": 114,
+        "nombre": "JOYEROS  ROJO Y VERDE",
+        "precio": 3.5,
+        "imagen": "static/img/productos/joyeros_rojo_y_verde.jpg",
+        "descripcion": "JOYEROS  ROJO Y VERDE",
+        "stock": 2
+    },
+    {
+        "id": 115,
+        "nombre": "juego de baño 6 piezas",
+        "precio": 10.0,
+        "imagen": "static/img/productos/juego_de_baño_6_piezas.jpg",
+        "descripcion": "juego de baño 6 piezas",
+        "stock": 1
+    },
+    {
+        "id": 116,
+        "nombre": "juego de olla 5 piezas",
+        "precio": 19.0,
+        "imagen": "static/img/productos/juego_de_olla_5_piezas.jpg",
+        "descripcion": "juego de olla 5 piezas",
+        "stock": 4
+    },
+    {
+        "id": 117,
+        "nombre": "juego de olla 4 piezas oferta",
+        "precio": 15.0,
+        "imagen": "static/img/productos/juego_de_olla_4_piezas_oferta.jpg",
+        "descripcion": "juego de olla 4 piezas oferta",
+        "stock": 1
+    },
+    {
+        "id": 118,
+        "nombre": "Juego de rollos papel térmico con adhesivo 5 piezas",
+        "precio": 4.0,
+        "imagen": "static/img/productos/juego_de_rollos_papel_térmico_con_adhesivo_5_piezas.jpg",
+        "descripcion": "Juego de rollos papel térmico con adhesivo 5 piezas",
+        "stock": 4
+    },
+    {
+        "id": 119,
+        "nombre": "juegos cadena y aretes cisnes",
+        "precio": 7.0,
+        "imagen": "static/img/productos/juegos_cadena_y_aretes_cisnes.jpg",
+        "descripcion": "juegos cadena y aretes cisnes",
+        "stock": 1
+    },
+    {
+        "id": 120,
+        "nombre": "juegos de cadena perla blanca arete de clavo",
+        "precio": 7.5,
+        "imagen": "static/img/productos/juegos_de_cadena_perla_blanca_arete_de_clavo.jpg",
+        "descripcion": "juegos de cadena perla blanca arete de clavo",
+        "stock": 1
+    },
+    {
+        "id": 121,
+        "nombre": "JUEGOS DE CUCHILLOS MORADO Y ROSADO",
+        "precio": 4.0,
+        "imagen": "static/img/productos/juegos_de_cuchillos_morado_y_rosado.jpg",
+        "descripcion": "JUEGOS DE CUCHILLOS MORADO Y ROSADO",
+        "stock": 1
+    },
+    {
+        "id": 122,
+        "nombre": "juegos de olla x 3  negras",
+        "precio": 13.0,
+        "imagen": "static/img/productos/juegos_de_olla_x_3_negras.jpg",
+        "descripcion": "juegos de olla x 3  negras",
+        "stock": 2
+    },
+    {
+        "id": 123,
+        "nombre": "Juguete - carritos de carga",
+        "precio": 1.75,
+        "imagen": "static/img/productos/juguete_-_carritos_de_carga.jpg",
+        "descripcion": "Juguete - carritos de carga",
+        "stock": 1
+    },
+    {
+        "id": 124,
+        "nombre": "Juguete -- huevos",
+        "precio": 0.75,
+        "imagen": "static/img/productos/juguete_--_huevos.jpg",
+        "descripcion": "Juguete -- huevos",
+        "stock": 2
+    },
+    {
+        "id": 125,
+        "nombre": "Juguete -- muñecas barbie",
+        "precio": 1.75,
+        "imagen": "static/img/productos/juguete_--_muñecas_barbie.jpg",
+        "descripcion": "Juguete -- muñecas barbie",
+        "stock": 1
+    },
+    {
+        "id": 126,
+        "nombre": "Juguete - pistolas de 1spiderman-2 batman",
+        "precio": 1.75,
+        "imagen": "static/img/productos/juguete_-_pistolas_de_1spiderman-2_batman.jpg",
+        "descripcion": "Juguete - pistolas de 1spiderman-2 batman",
+        "stock": 3
+    },
+    {
+        "id": 127,
+        "nombre": "Juguete - set de belleza",
+        "precio": 1.75,
+        "imagen": "static/img/productos/juguete_-_set_de_belleza.jpg",
+        "descripcion": "Juguete - set de belleza",
+        "stock": 1
+    },
+    {
+        "id": 128,
+        "nombre": "juguete alcancia",
+        "precio": 4.0,
+        "imagen": "static/img/productos/juguete_alcancia.jpg",
+        "descripcion": "juguete alcancia",
+        "stock": 1
+    },
+    {
+        "id": 129,
+        "nombre": "LAMINAS DE JABON",
+        "precio": 1.0,
+        "imagen": "static/img/productos/laminas_de_jabon.jpg",
+        "descripcion": "LAMINAS DE JABON",
+        "stock": 9
+    },
+    {
+        "id": 130,
+        "nombre": "Lampara Mata Mosquito",
+        "precio": 8.0,
+        "imagen": "static/img/productos/lampara_mata_mosquito.jpg",
+        "descripcion": "Lampara Mata Mosquito",
+        "stock": 2
+    },
+    {
+        "id": 131,
+        "nombre": "Lampara Mata Mosquito 2",
+        "precio": 8.0,
+        "imagen": "static/img/productos/lampara_mata_mosquito_2.jpg",
+        "descripcion": "Lampara Mata Mosquito 2",
+        "stock": 6
+    },
+    {
+        "id": 132,
+        "nombre": "Lampara Mata Mosquito 3 tipo delfin",
+        "precio": 4.5,
+        "imagen": "static/img/productos/lampara_mata_mosquito_3_tipo_delfin.jpg",
+        "descripcion": "Lampara Mata Mosquito 3 tipo delfin",
+        "stock": 1
+    },
+    {
+        "id": 133,
+        "nombre": "LAMPARAS 3 D (1 HAPPY BIRTHDAY )+(1) CONEJO + (3 oso)+(1 guitarra ) + (1 paris )+(1 mundo )+(1 globo corazón )+(1 corazón))",
+        "precio": 3.5,
+        "imagen": "static/img/productos/lamparas_3_d_1_happy_birthday_1_conejo__3_oso1_guitarra___1_paris_1_mundo_1_globo_corazón_1_corazón.jpg",
+        "descripcion": "LAMPARAS 3 D (1 HAPPY BIRTHDAY )+(1) CONEJO + (3 oso)+(1 guitarra ) + (1 paris )+(1 mundo )+(1 globo corazón )+(1 corazón))",
+        "stock": 10
+    },
+    {
+        "id": 134,
+        "nombre": "Lamparas  led de mesa",
+        "precio": 7.0,
+        "imagen": "static/img/productos/lamparas_led_de_mesa.jpg",
+        "descripcion": "Lamparas  led de mesa",
+        "stock": 3
+    },
+    {
+        "id": 135,
+        "nombre": "Llanta de moto aro 10",
+        "precio": 21.0,
+        "imagen": "static/img/productos/llanta_de_moto_aro_10.jpg",
+        "descripcion": "Llanta de moto aro 10",
+        "stock": 0
+    },
+    {
+        "id": 136,
+        "nombre": "Lentes de Aumentos 2.50+1.50+2.50+3.00+4.00+2.00+2.50+1.50",
+        "precio": 2.5,
+        "imagen": "static/img/productos/lentes_de_aumentos_250150250300400200250150.jpg",
+        "descripcion": "Lentes de Aumentos 2.50+1.50+2.50+3.00+4.00+2.00+2.50+1.50",
+        "stock": 8
+    },
+    {
+        "id": 137,
+        "nombre": "licra y top (5.00)   + licra larga y top (7.00)",
+        "precio": 5.0,
+        "imagen": "static/img/productos/licra_y_top_500__licra_larga_y_top_700.jpg",
+        "descripcion": "licra y top (5.00)   + licra larga y top (7.00)",
+        "stock": 2
+    },
+    {
+        "id": 138,
+        "nombre": "LICUADORA PORTATIL botella",
+        "precio": 6.5,
+        "imagen": "static/img/productos/licuadora_portatil_botella.jpg",
+        "descripcion": "LICUADORA PORTATIL botella",
+        "stock": 1
+    },
+    {
+        "id": 139,
+        "nombre": "LICUADORA PORTATIL VERDE",
+        "precio": 6.5,
+        "imagen": "static/img/productos/licuadora_portatil_verde.jpg",
+        "descripcion": "LICUADORA PORTATIL VERDE",
+        "stock": 1
+    },
+    {
+        "id": 140,
+        "nombre": "LICUADORA PORTATILtipo vaso amarillo",
+        "precio": 6.5,
+        "imagen": "static/img/productos/licuadora_portatiltipo_vaso_amarillo.jpg",
+        "descripcion": "LICUADORA PORTATILtipo vaso amarillo",
+        "stock": 1
+    },
+    {
+        "id": 141,
+        "nombre": "LICUADORAS DE COCINA",
+        "precio": 19.5,
+        "imagen": "static/img/productos/licuadoras_de_cocina.jpg",
+        "descripcion": "LICUADORAS DE COCINA",
+        "stock": 1
+    },
+    {
+        "id": 142,
+        "nombre": "Limpiadores faciales de hielo",
+        "precio": 1.8,
+        "imagen": "static/img/productos/limpiadores_faciales_de_hielo.jpg",
+        "descripcion": "Limpiadores faciales de hielo",
+        "stock": 1
+    },
+    {
+        "id": 143,
+        "nombre": "LINTERNAS GAFINI",
+        "precio": 5.0,
+        "imagen": "static/img/productos/linternas_gafini.jpg",
+        "descripcion": "LINTERNAS GAFINI",
+        "stock": 9
+    },
+    {
+        "id": 144,
+        "nombre": "Lonchera Electrica portable  2 pisos",
+        "precio": 14.5,
+        "imagen": "static/img/productos/lonchera_electrica_portable_2_pisos.jpg",
+        "descripcion": "Lonchera Electrica portable  2 pisos",
+        "stock": 2
+    },
+    {
+        "id": 145,
+        "nombre": "Lonchera Electrica portable 1 piso",
+        "precio": 8.0,
+        "imagen": "static/img/productos/lonchera_electrica_portable_1_piso.jpg",
+        "descripcion": "Lonchera Electrica portable 1 piso",
+        "stock": 2
+    },
+    {
+        "id": 146,
+        "nombre": "Maleta de viaje grande",
+        "precio": 40.0,
+        "imagen": "static/img/productos/maleta_de_viaje_grande.jpg",
+        "descripcion": "Maleta de viaje grande",
+        "stock": 1
+    },
+    {
+        "id": 147,
+        "nombre": "Maleta de viaje pequeña",
+        "precio": 25.0,
+        "imagen": "static/img/productos/maleta_de_viaje_pequeña.jpg",
+        "descripcion": "Maleta de viaje pequeña",
+        "stock": 1
+    },
+    {
+        "id": 148,
+        "nombre": "manguera de luces doradas  10 metros",
+        "precio": 8.0,
+        "imagen": "static/img/productos/manguera_de_luces_doradas_10_metros.jpg",
+        "descripcion": "manguera de luces doradas  10 metros",
+        "stock": 3
+    },
+    {
+        "id": 149,
+        "nombre": "manguera de luces Multicolor 20 metros",
+        "precio": 14.0,
+        "imagen": "static/img/productos/manguera_de_luces_multicolor_20_metros.jpg",
+        "descripcion": "manguera de luces Multicolor 20 metros",
+        "stock": 2
+    },
+    {
+        "id": 150,
+        "nombre": "manguera de luces Multicolor  10 metros",
+        "precio": 8.0,
+        "imagen": "static/img/productos/manguera_de_luces_multicolor_10_metros.jpg",
+        "descripcion": "manguera de luces Multicolor  10 metros",
+        "stock": 1
+    },
+    {
+        "id": 151,
+        "nombre": "MÁQUINA RASURADORAS SONAR 3 FUNCIONES",
+        "precio": 9.0,
+        "imagen": "static/img/productos/máquina_rasuradoras_sonar_3_funciones.jpg",
+        "descripcion": "MÁQUINA RASURADORAS SONAR 3 FUNCIONES",
+        "stock": 1
+    },
+    {
+        "id": 152,
+        "nombre": "mariquitas y tortuga",
+        "precio": 1.25,
+        "imagen": "static/img/productos/mariquitas_y_tortuga.jpg",
+        "descripcion": "mariquitas y tortuga",
+        "stock": 2
+    },
+    {
+        "id": 153,
+        "nombre": "MASCARILLA CELESTE",
+        "precio": 1.25,
+        "imagen": "static/img/productos/mascarilla_celeste.jpg",
+        "descripcion": "MASCARILLA CELESTE",
+        "stock": 9
+    },
+    {
+        "id": 154,
+        "nombre": "mata mosca 20 + 12 verdes pequeñas",
+        "precio": 0.75,
+        "imagen": "static/img/productos/mata_mosca_20__12_verdes_pequeñas.jpg",
+        "descripcion": "mata mosca 20 + 12 verdes pequeñas",
+        "stock": 55
+    },
+    {
+        "id": 155,
+        "nombre": "microfono x 1",
+        "precio": 20.0,
+        "imagen": "static/img/productos/microfono_x_1.jpg",
+        "descripcion": "microfono x 1",
+        "stock": 1
+    },
+    {
+        "id": 156,
+        "nombre": "microfono x 2  SC 8014",
+        "precio": 27.0,
+        "imagen": "static/img/productos/microfono_x_2_sc_8014.jpg",
+        "descripcion": "microfono x 2  SC 8014",
+        "stock": 1
+    },
+    {
+        "id": 157,
+        "nombre": "Mini carteras tipo Monedero",
+        "precio": 2.5,
+        "imagen": "static/img/productos/mini_carteras_tipo_monedero.jpg",
+        "descripcion": "Mini carteras tipo Monedero",
+        "stock": 3
+    },
+    {
+        "id": 158,
+        "nombre": "Mini esencias , HUMIFICADOR",
+        "precio": 0.5,
+        "imagen": "static/img/productos/mini_esencias__humificador.jpg",
+        "descripcion": "Mini esencias , HUMIFICADOR",
+        "stock": 10
+    },
+    {
+        "id": 159,
+        "nombre": "MINI IMPRESORA TERMICA",
+        "precio": 13.5,
+        "imagen": "static/img/productos/mini_impresora_termica.jpg",
+        "descripcion": "MINI IMPRESORA TERMICA",
+        "stock": 1
+    },
+    {
+        "id": 160,
+        "nombre": "mochilas cruzadas pequeñas  masculinas tipo canguro 3 azul y plomo y azul con rayas blancas",
+        "precio": 3.75,
+        "imagen": "static/img/productos/mochilas_cruzadas_pequeñas_masculinas_tipo_canguro_3_azul_y_plomo_y_azul_con_rayas_blancas.jpg",
+        "descripcion": "mochilas cruzadas pequeñas  masculinas tipo canguro 3 azul y plomo y azul con rayas blancas",
+        "stock": 3
+    },
+    {
+        "id": 161,
+        "nombre": "Moto Scooter negra",
+        "precio": 500.0,
+        "imagen": "static/img/productos/moto_scooter_negra.jpg",
+        "descripcion": "Moto Scooter negra",
+        "stock": 0
+    },
+    {
+        "id": 162,
+        "nombre": "Nebulizador Pequeño",
+        "precio": 10.0,
+        "imagen": "static/img/productos/nebulizador_pequeño.jpg",
+        "descripcion": "Nebulizador Pequeño",
+        "stock": 4
+    },
+    {
+        "id": 163,
+        "nombre": "ojos led de carro",
+        "precio": 10.0,
+        "imagen": "static/img/productos/ojos_led_de_carro.jpg",
+        "descripcion": "ojos led de carro",
+        "stock": 2
+    },
+    {
+        "id": 164,
+        "nombre": "olla con tapa 18 cm",
+        "precio": 3.5,
+        "imagen": "static/img/productos/olla_con_tapa_18_cm.jpg",
+        "descripcion": "olla con tapa 18 cm",
+        "stock": 2
+    },
+    {
+        "id": 165,
+        "nombre": "olla de cristal",
+        "precio": 9.5,
+        "imagen": "static/img/productos/olla_de_cristal.jpg",
+        "descripcion": "olla de cristal",
+        "stock": 3
+    },
+    {
+        "id": 166,
+        "nombre": "organizador de escritorio",
+        "precio": 2.5,
+        "imagen": "static/img/productos/organizador_de_escritorio.jpg",
+        "descripcion": "organizador de escritorio",
+        "stock": 1
+    },
+    {
+        "id": 167,
+        "nombre": "organzas 37 rosadas 33 doradas",
+        "precio": 0.25,
+        "imagen": "static/img/productos/organzas_37_rosadas_33_doradas.jpg",
+        "descripcion": "organzas 37 rosadas 33 doradas",
+        "stock": 70
+    },
+    {
+        "id": 168,
+        "nombre": "OSO PELUCHE que habla",
+        "precio": 12.0,
+        "imagen": "static/img/productos/oso_peluche_que_habla.jpg",
+        "descripcion": "OSO PELUCHE que habla",
+        "stock": 1
+    },
+    {
+        "id": 169,
+        "nombre": "oximetro",
+        "precio": 3.5,
+        "imagen": "static/img/productos/oximetro.jpg",
+        "descripcion": "oximetro",
+        "stock": 2
+    },
+    {
+        "id": 170,
+        "nombre": "PANTALONES CARGO  AZUL T34-NEGRO MUJER 12-AZUL HOMBRE T32",
+        "precio": 12.0,
+        "imagen": "static/img/productos/pantalones_cargo_azul_t34-negro_mujer_12-azul_hombre_t32.jpg",
+        "descripcion": "PANTALONES CARGO  AZUL T34-NEGRO MUJER 12-AZUL HOMBRE T32",
+        "stock": 2
+    },
+    {
+        "id": 171,
+        "nombre": "papel adhesivos para cocina - PLOMO-NEGRO  - blanco",
+        "precio": 3.25,
+        "imagen": "static/img/productos/papel_adhesivos_para_cocina_-_plomo-negro_-_blanco.jpg",
+        "descripcion": "papel adhesivos para cocina - PLOMO-NEGRO  - blanco",
+        "stock": 3
+    },
+    {
+        "id": 172,
+        "nombre": "parche sobre de varices",
+        "precio": 1.75,
+        "imagen": "static/img/productos/parche_sobre_de_varices.jpg",
+        "descripcion": "parche sobre de varices",
+        "stock": 1
+    },
+    {
+        "id": 173,
+        "nombre": "parches para el dolor",
+        "precio": 1.75,
+        "imagen": "static/img/productos/parches_para_el_dolor.jpg",
+        "descripcion": "parches para el dolor",
+        "stock": 1
+    },
+    {
+        "id": 174,
+        "nombre": "parches sobre desentoxicantes de pies",
+        "precio": 1.5,
+        "imagen": "static/img/productos/parches_sobre_desentoxicantes_de_pies.jpg",
+        "descripcion": "parches sobre desentoxicantes de pies",
+        "stock": 4
+    },
+    {
+        "id": 175,
+        "nombre": "parlante azul con microfono pequeño",
+        "precio": 8.0,
+        "imagen": "static/img/productos/parlante_azul_con_microfono_pequeño.jpg",
+        "descripcion": "parlante azul con microfono pequeño",
+        "stock": 1
+    },
+    {
+        "id": 176,
+        "nombre": "parlante boom box",
+        "precio": 30.0,
+        "imagen": "static/img/productos/parlante_boom_box.jpg",
+        "descripcion": "parlante boom box",
+        "stock": 1
+    },
+    {
+        "id": 177,
+        "nombre": "parlante cafini  x4 6760  8\" pulgadas  $ 20.50",
+        "precio": 35.0,
+        "imagen": "static/img/productos/parlante_cafini_x4_6760_8_pulgadas__2050.jpg",
+        "descripcion": "parlante cafini  x4 6760  8\" pulgadas  $ 20.50",
+        "stock": 0
+    },
+    {
+        "id": 178,
+        "nombre": "Parlante caja naranja con bluetooth",
+        "precio": 5.0,
+        "imagen": "static/img/productos/parlante_caja_naranja_con_bluetooth.jpg",
+        "descripcion": "Parlante caja naranja con bluetooth",
+        "stock": 3
+    },
+    {
+        "id": 179,
+        "nombre": "Parlante con microfono de 1500 watt",
+        "precio": 20.0,
+        "imagen": "static/img/productos/parlante_con_microfono_de_1500_watt.jpg",
+        "descripcion": "Parlante con microfono de 1500 watt",
+        "stock": 1
+    },
+    {
+        "id": 180,
+        "nombre": "Parlante FOCOS RGB MUSICALES parlante",
+        "precio": 4.0,
+        "imagen": "static/img/productos/parlante_focos_rgb_musicales_parlante.jpg",
+        "descripcion": "Parlante FOCOS RGB MUSICALES parlante",
+        "stock": 1
+    },
+    {
+        "id": 181,
+        "nombre": "Parlante Nebulosa parlante",
+        "precio": 18.0,
+        "imagen": "static/img/productos/parlante_nebulosa_parlante.jpg",
+        "descripcion": "Parlante Nebulosa parlante",
+        "stock": 1
+    },
+    {
+        "id": 182,
+        "nombre": "parlante XY-S6736  MEDIDAS 15 X 34 CM",
+        "precio": 15.0,
+        "imagen": "static/img/productos/parlante_xy-s6736_medidas_15_x_34_cm.jpg",
+        "descripcion": "parlante XY-S6736  MEDIDAS 15 X 34 CM",
+        "stock": 4
+    },
+    {
+        "id": 183,
+        "nombre": "parlante PEQUEÑO CON LUCES linx 6292 vino con xy-6736",
+        "precio": 5.0,
+        "imagen": "static/img/productos/parlante_pequeño_con_luces_linx_6292_vino_con_xy-6736.jpg",
+        "descripcion": "parlante PEQUEÑO CON LUCES linx 6292 vino con xy-6736",
+        "stock": 1
+    },
+    {
+        "id": 184,
+        "nombre": "parlante CLINDRICOS CON LUCES",
+        "precio": 5.0,
+        "imagen": "static/img/productos/parlante_clindricos_con_luces.jpg",
+        "descripcion": "parlante CLINDRICOS CON LUCES",
+        "stock": 0
+    },
+    {
+        "id": 185,
+        "nombre": "parlante xx 6745 8\" Pulgadas",
+        "precio": 22.5,
+        "imagen": "static/img/productos/parlante_xx_6745_8_pulgadas.jpg",
+        "descripcion": "parlante xx 6745 8\" Pulgadas",
+        "stock": 1
+    },
+    {
+        "id": 186,
+        "nombre": "Parlante con microfono inalambrico XY-S6850",
+        "precio": 25.0,
+        "imagen": "static/img/productos/parlante_con_microfono_inalambrico_xy-s6850.jpg",
+        "descripcion": "Parlante con microfono inalambrico XY-S6850",
+        "stock": 2
+    },
+    {
+        "id": 187,
+        "nombre": "Parlante con microfono inalambrico CAFINI  CN-S6724",
+        "precio": 80.0,
+        "imagen": "static/img/productos/parlante_con_microfono_inalambrico_cafini_cn-s6724.jpg",
+        "descripcion": "Parlante con microfono inalambrico CAFINI  CN-S6724",
+        "stock": 1
+    },
+    {
+        "id": 188,
+        "nombre": "Parlante con microfono inalambrico CAFINI CN-S11003/AC(W)",
+        "precio": 80.0,
+        "imagen": "static/img/productos/parlante_con_microfono_inalambrico_cafini_cn-s11003acw.jpg",
+        "descripcion": "Parlante con microfono inalambrico CAFINI CN-S11003/AC(W)",
+        "stock": 1
+    },
+    {
+        "id": 189,
+        "nombre": "Parlantes caja verde",
+        "precio": 6.5,
+        "imagen": "static/img/productos/parlantes_caja_verde.jpg",
+        "descripcion": "Parlantes caja verde",
+        "stock": 10
+    },
+    {
+        "id": 190,
+        "nombre": "PARLANTES RADIOS  CAJA AZUL 2  $ 2.56",
+        "precio": 0.0,
+        "imagen": "static/img/productos/parlantes_radios_caja_azul_2__256.jpg",
+        "descripcion": "PARLANTES RADIOS  CAJA AZUL 2  $ 2.56",
+        "stock": 2
+    },
+    {
+        "id": 191,
+        "nombre": "patito biker",
+        "precio": 1.75,
+        "imagen": "static/img/productos/patito_biker.jpg",
+        "descripcion": "patito biker",
+        "stock": 8
+    },
+    {
+        "id": 192,
+        "nombre": "pegamento de llanta",
+        "precio": 2.0,
+        "imagen": "static/img/productos/pegamento_de_llanta.jpg",
+        "descripcion": "pegamento de llanta",
+        "stock": 3
+    },
+    {
+        "id": 193,
+        "nombre": "pelotas neom",
+        "precio": 0.75,
+        "imagen": "static/img/productos/pelotas_neom.jpg",
+        "descripcion": "pelotas neom",
+        "stock": 6
+    },
+    {
+        "id": 194,
+        "nombre": "Perfume + crema",
+        "precio": 2.5,
+        "imagen": "static/img/productos/perfume__crema.jpg",
+        "descripcion": "Perfume + crema",
+        "stock": 4
+    },
+    {
+        "id": 195,
+        "nombre": "Pinzas x 20",
+        "precio": 0.75,
+        "imagen": "static/img/productos/pinzas_x_20.jpg",
+        "descripcion": "Pinzas x 20",
+        "stock": 2
+    },
+    {
+        "id": 196,
+        "nombre": "plancha de cabello sonar roja",
+        "precio": 12.5,
+        "imagen": "static/img/productos/plancha_de_cabello_sonar_roja.jpg",
+        "descripcion": "plancha de cabello sonar roja",
+        "stock": 1
+    },
+    {
+        "id": 197,
+        "nombre": "PLANCHAS DE ROPA A VAPOR",
+        "precio": 15.0,
+        "imagen": "static/img/productos/planchas_de_ropa_a_vapor.jpg",
+        "descripcion": "PLANCHAS DE ROPA A VAPOR",
+        "stock": 5
+    },
+    {
+        "id": 198,
+        "nombre": "platera de lujo de 95 cm",
+        "precio": 30.0,
+        "imagen": "static/img/productos/platera_de_lujo_de_95_cm.jpg",
+        "descripcion": "platera de lujo de 95 cm",
+        "stock": 1
+    },
+    {
+        "id": 199,
+        "nombre": "platera de lujo de 95 cm 2 niveles",
+        "precio": 38.0,
+        "imagen": "static/img/productos/platera_de_lujo_de_95_cm_2_niveles.jpg",
+        "descripcion": "platera de lujo de 95 cm 2 niveles",
+        "stock": 3
+    },
+    {
+        "id": 200,
+        "nombre": "platera super gigante plastico  de 60 X 48  cm",
+        "precio": 18.0,
+        "imagen": "static/img/productos/platera_super_gigante_plastico_de_60_x_48_cm.jpg",
+        "descripcion": "platera super gigante plastico  de 60 X 48  cm",
+        "stock": 1
+    },
+    {
+        "id": 201,
+        "nombre": "porta cepillo con cara de marihuano",
+        "precio": 1.25,
+        "imagen": "static/img/productos/porta_cepillo_con_cara_de_marihuano.jpg",
+        "descripcion": "porta cepillo con cara de marihuano",
+        "stock": 1
+    },
+    {
+        "id": 202,
+        "nombre": "porta cepillo y pasta color rosado",
+        "precio": 2.75,
+        "imagen": "static/img/productos/porta_cepillo_y_pasta_color_rosado.jpg",
+        "descripcion": "porta cepillo y pasta color rosado",
+        "stock": 3
+    },
+    {
+        "id": 203,
+        "nombre": "porta cepillo y pasta color blanco",
+        "precio": 2.75,
+        "imagen": "static/img/productos/porta_cepillo_y_pasta_color_blanco.jpg",
+        "descripcion": "porta cepillo y pasta color blanco",
+        "stock": 1
+    },
+    {
+        "id": 204,
+        "nombre": "Porta Shampoo",
+        "precio": 2.0,
+        "imagen": "static/img/productos/porta_shampoo.jpg",
+        "descripcion": "Porta Shampoo",
+        "stock": 5
+    },
+    {
+        "id": 205,
+        "nombre": "Power Bank  5.000 mAh",
+        "precio": 10.0,
+        "imagen": "static/img/productos/power_bank_5000_mah.jpg",
+        "descripcion": "Power Bank  5.000 mAh",
+        "stock": 3
+    },
+    {
+        "id": 206,
+        "nombre": "Power Bank  50.000 mAh",
+        "precio": 26.0,
+        "imagen": "static/img/productos/power_bank_50000_mah.jpg",
+        "descripcion": "Power Bank  50.000 mAh",
+        "stock": 2
+    },
+    {
+        "id": 207,
+        "nombre": "PROYECTORES DE IMAGEN",
+        "precio": 0.0,
+        "imagen": "static/img/productos/proyectores_de_imagen.jpg",
+        "descripcion": "PROYECTORES DE IMAGEN",
+        "stock": 0
+    },
+    {
+        "id": 208,
+        "nombre": "pulseras 1 dorada en cajita",
+        "precio": 4.0,
+        "imagen": "static/img/productos/pulseras_1_dorada_en_cajita.jpg",
+        "descripcion": "pulseras 1 dorada en cajita",
+        "stock": 1
+    },
+    {
+        "id": 209,
+        "nombre": "punteros wireless presenter",
+        "precio": 7.5,
+        "imagen": "static/img/productos/punteros_wireless_presenter.jpg",
+        "descripcion": "punteros wireless presenter",
+        "stock": 2
+    },
+    {
+        "id": 210,
+        "nombre": "radio intercomunicador",
+        "precio": 22.0,
+        "imagen": "static/img/productos/radio_intercomunicador.jpg",
+        "descripcion": "radio intercomunicador",
+        "stock": 1
+    },
+    {
+        "id": 211,
+        "nombre": "radios am/ fm  1negros -1BRonce  -1 rojo",
+        "precio": 10.0,
+        "imagen": "static/img/productos/radios_am_fm_1negros_-1bronce_-1_rojo.jpg",
+        "descripcion": "radios am/ fm  1negros -1BRonce  -1 rojo",
+        "stock": 3
+    },
+    {
+        "id": 212,
+        "nombre": "Ramo de clave",
+        "precio": 1.5,
+        "imagen": "static/img/productos/ramo_de_clave.jpg",
+        "descripcion": "Ramo de clave",
+        "stock": 10
+    },
+    {
+        "id": 213,
+        "nombre": "RENO PELUCHE",
+        "precio": 12.0,
+        "imagen": "static/img/productos/reno_peluche.jpg",
+        "descripcion": "RENO PELUCHE",
+        "stock": 1
+    },
+    {
+        "id": 214,
+        "nombre": "repelente de rata electrico",
+        "precio": 5.0,
+        "imagen": "static/img/productos/repelente_de_rata_electrico.jpg",
+        "descripcion": "repelente de rata electrico",
+        "stock": 6
+    },
+    {
+        "id": 215,
+        "nombre": "Repisas multiusoso (beige)",
+        "precio": 2.0,
+        "imagen": "static/img/productos/repisas_multiusoso_beige.jpg",
+        "descripcion": "Repisas multiusoso (beige)",
+        "stock": 4
+    },
+    {
+        "id": 216,
+        "nombre": "Rodillera ajustable",
+        "precio": 3.5,
+        "imagen": "static/img/productos/rodillera_ajustable.jpg",
+        "descripcion": "Rodillera ajustable",
+        "stock": 6
+    },
+    {
+        "id": 217,
+        "nombre": "SACA ESCAMAS",
+        "precio": 1.5,
+        "imagen": "static/img/productos/saca_escamas.jpg",
+        "descripcion": "SACA ESCAMAS",
+        "stock": 3
+    },
+    {
+        "id": 218,
+        "nombre": "sarten de corazones",
+        "precio": 5.0,
+        "imagen": "static/img/productos/sarten_de_corazones.jpg",
+        "descripcion": "sarten de corazones",
+        "stock": 2
+    },
+    {
+        "id": 219,
+        "nombre": "sarten olla de sopa  28 cm",
+        "precio": 8.0,
+        "imagen": "static/img/productos/sarten_olla_de_sopa_28_cm.jpg",
+        "descripcion": "sarten olla de sopa  28 cm",
+        "stock": 1
+    },
+    {
+        "id": 220,
+        "nombre": "SECADOR DE ZAPATO caja café",
+        "precio": 7.0,
+        "imagen": "static/img/productos/secador_de_zapato_caja_café.jpg",
+        "descripcion": "SECADOR DE ZAPATO caja café",
+        "stock": 1
+    },
+    {
+        "id": 221,
+        "nombre": "SECADOR DE ZAPATO GRANDE",
+        "precio": 14.5,
+        "imagen": "static/img/productos/secador_de_zapato_grande.jpg",
+        "descripcion": "SECADOR DE ZAPATO GRANDE",
+        "stock": 1
+    },
+    {
+        "id": 222,
+        "nombre": "SOPORTE DE TV  hasta 55 PULGADAS  giratorio",
+        "precio": 25.0,
+        "imagen": "static/img/productos/soporte_de_tv_hasta_55_pulgadas_giratorio.jpg",
+        "descripcion": "SOPORTE DE TV  hasta 55 PULGADAS  giratorio",
+        "stock": 2
+    },
+    {
+        "id": 223,
+        "nombre": "SOPORTE DE TV  hasta 85 PULGADAS",
+        "precio": 11.5,
+        "imagen": "static/img/productos/soporte_de_tv_hasta_85_pulgadas.jpg",
+        "descripcion": "SOPORTE DE TV  hasta 85 PULGADAS",
+        "stock": 1
+    },
+    {
+        "id": 224,
+        "nombre": "SOPORTE DE TV  hasta 85 PULGADAS Giratorio",
+        "precio": 10.0,
+        "imagen": "static/img/productos/soporte_de_tv_hasta_85_pulgadas_giratorio.jpg",
+        "descripcion": "SOPORTE DE TV  hasta 85 PULGADAS Giratorio",
+        "stock": 1
+    },
+    {
+        "id": 225,
+        "nombre": "Tachos de Basura",
+        "precio": 4.0,
+        "imagen": "static/img/productos/tachos_de_basura.jpg",
+        "descripcion": "Tachos de Basura",
+        "stock": 4
+    },
+    {
+        "id": 226,
+        "nombre": "Trapedor con repuesto , giratorio  uno bueno y uno roto",
+        "precio": 10.0,
+        "imagen": "static/img/productos/trapedor_con_repuesto__giratorio_uno_bueno_y_uno_roto.jpg",
+        "descripcion": "Trapedor con repuesto , giratorio  uno bueno y uno roto",
+        "stock": 2
+    },
+    {
+        "id": 227,
+        "nombre": "TENSIOMETRO BLANCO CON LETRAS Y COLOR AMARILLO",
+        "precio": 8.5,
+        "imagen": "static/img/productos/tensiometro_blanco_con_letras_y_color_amarillo.jpg",
+        "descripcion": "TENSIOMETRO BLANCO CON LETRAS Y COLOR AMARILLO",
+        "stock": 8
+    },
+    {
+        "id": 228,
+        "nombre": "tetera alumino",
+        "precio": 12.0,
+        "imagen": "static/img/productos/tetera_alumino.jpg",
+        "descripcion": "tetera alumino",
+        "stock": 1
+    },
+    {
+        "id": 229,
+        "nombre": "Tetitas (moños)",
+        "precio": 0.5,
+        "imagen": "static/img/productos/tetitas_moños.jpg",
+        "descripcion": "Tetitas (moños)",
+        "stock": 2
+    },
+    {
+        "id": 230,
+        "nombre": "TIMBRE DE PILA  AAA",
+        "precio": 4.5,
+        "imagen": "static/img/productos/timbre_de_pila_aaa.jpg",
+        "descripcion": "TIMBRE DE PILA  AAA",
+        "stock": 3
+    },
+    {
+        "id": 231,
+        "nombre": "TINTES -NEGRO NATURAL -CAFÉ NATURAL",
+        "precio": 4.5,
+        "imagen": "static/img/productos/tintes_-negro_natural_-café_natural.jpg",
+        "descripcion": "TINTES -NEGRO NATURAL -CAFÉ NATURAL",
+        "stock": 2
+    },
+    {
+        "id": 232,
+        "nombre": "tobilleras-taloneras",
+        "precio": 2.5,
+        "imagen": "static/img/productos/tobilleras-taloneras.jpg",
+        "descripcion": "tobilleras-taloneras",
+        "stock": 2
+    },
+    {
+        "id": 233,
+        "nombre": "Toldos lila y blanco",
+        "precio": 5.0,
+        "imagen": "static/img/productos/toldos_lila_y_blanco.jpg",
+        "descripcion": "Toldos lila y blanco",
+        "stock": 2
+    },
+    {
+        "id": 234,
+        "nombre": "Tomatodo capibara",
+        "precio": 2.5,
+        "imagen": "static/img/productos/tomatodo_capibara.jpg",
+        "descripcion": "Tomatodo capibara",
+        "stock": 3
+    },
+    {
+        "id": 235,
+        "nombre": "tomatodo fittness",
+        "precio": 3.5,
+        "imagen": "static/img/productos/tomatodo_fittness.jpg",
+        "descripcion": "tomatodo fittness",
+        "stock": 2
+    },
+    {
+        "id": 236,
+        "nombre": "TV BOX",
+        "precio": 21.0,
+        "imagen": "static/img/productos/tv_box.jpg",
+        "descripcion": "TV BOX",
+        "stock": 3
+    },
+    {
+        "id": 237,
+        "nombre": "Vaso de Osito",
+        "precio": 1.8,
+        "imagen": "static/img/productos/vaso_de_osito.jpg",
+        "descripcion": "Vaso de Osito",
+        "stock": 2
+    },
+    {
+        "id": 238,
+        "nombre": "velocimetro",
+        "precio": 3.0,
+        "imagen": "static/img/productos/velocimetro.jpg",
+        "descripcion": "velocimetro",
+        "stock": 1
+    },
+    {
+        "id": 239,
+        "nombre": "Ventilador 18 pulgadas",
+        "precio": 32.0,
+        "imagen": "static/img/productos/ventilador_18_pulgadas.jpg",
+        "descripcion": "Ventilador 18 pulgadas",
+        "stock": 4
+    },
+    {
+        "id": 240,
+        "nombre": "ventilador de mano",
+        "precio": 3.5,
+        "imagen": "static/img/productos/ventilador_de_mano.jpg",
+        "descripcion": "ventilador de mano",
+        "stock": 4
+    },
+    {
+        "id": 241,
+        "nombre": "ventilador de mano CAPIBARA",
+        "precio": 3.5,
+        "imagen": "static/img/productos/ventilador_de_mano_capibara.jpg",
+        "descripcion": "ventilador de mano CAPIBARA",
+        "stock": 2
+    },
+    {
+        "id": 242,
+        "nombre": "ventilador soporte de computadora",
+        "precio": 8.0,
+        "imagen": "static/img/productos/ventilador_soporte_de_computadora.jpg",
+        "descripcion": "ventilador soporte de computadora",
+        "stock": 3
+    },
+    {
+        "id": 243,
+        "nombre": "ventiladores de 12 pulgadas",
+        "precio": 20.0,
+        "imagen": "static/img/productos/ventiladores_de_12_pulgadas.jpg",
+        "descripcion": "ventiladores de 12 pulgadas",
+        "stock": 7
+    },
+    {
+        "id": 244,
+        "nombre": "ventiladores recargables portatiles 6verde y 3blanco",
+        "precio": 6.0,
+        "imagen": "static/img/productos/ventiladores_recargables_portatiles_6verde_y_3blanco.jpg",
+        "descripcion": "ventiladores recargables portatiles 6verde y 3blanco",
+        "stock": 9
+    },
+    {
+        "id": 245,
+        "nombre": "vestido con manga Rojo",
+        "precio": 6.8,
+        "imagen": "static/img/productos/vestido_con_manga_rojo.jpg",
+        "descripcion": "vestido con manga Rojo",
+        "stock": 1
+    },
+    {
+        "id": 246,
+        "nombre": "zapatera 27 pares organizadores",
+        "precio": 10.0,
+        "imagen": "static/img/productos/zapatera_27_pares_organizadores.jpg",
+        "descripcion": "zapatera 27 pares organizadores",
+        "stock": 2
+    },
+    {
+        "id": 247,
+        "nombre": "zapatera Organizador armables 6 niveles",
+        "precio": 10.0,
+        "imagen": "static/img/productos/zapatera_organizador_armables_6_niveles.jpg",
+        "descripcion": "zapatera Organizador armables 6 niveles",
+        "stock": 7
+    },
+    {
+        "id": 248,
+        "nombre": "zapato beige replica deportivo",
+        "precio": 25.0,
+        "imagen": "static/img/productos/zapato_beige_replica_deportivo.jpg",
+        "descripcion": "zapato beige replica deportivo",
+        "stock": 1
+    },
+    {
+        "id": 249,
+        "nombre": "ZAPATO ESCOLAR DE NIÑA 34-38-39",
+        "precio": 13.5,
+        "imagen": "static/img/productos/zapato_escolar_de_niña_34-38-39.jpg",
+        "descripcion": "ZAPATO ESCOLAR DE NIÑA 34-38-39",
+        "stock": 3
+    }
+]
